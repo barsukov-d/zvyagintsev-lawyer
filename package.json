@@ -12,6 +12,8 @@
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.10.4",
     "nuxt": "^3.9.1",
+    "prettier": "^3.2.2",
+    "prettier-plugin-tailwindcss": "^0.5.11",
     "vue": "^3.4.10",
     "vue-router": "^4.2.5"
   }

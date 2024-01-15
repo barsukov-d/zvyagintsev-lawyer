@@ -1,3 +1,9 @@
 {
-	"cSpell.words": ["nuxt", "nuxtjs", "tailwindcss"]
+	"cSpell.words": ["composables", "nuxt", "nuxtjs", "tailwindcss"],
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
+	"editor.quickSuggestions": {
+		"strings": true
+	}
 }

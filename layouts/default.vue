@@ -1,5 +1,6 @@
 <template>
 	<PageHeader />
 	<slot />
+
+	<PageFooter />
 </template>
-PageHeader

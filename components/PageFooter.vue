@@ -14,7 +14,7 @@
 					Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
 					commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
 				</p>
-				<div class="mt-6 flex p-2">
+				<div class="mt-4 flex py-2">
 					<a class="p-2" href="#">
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -97,9 +97,9 @@
 				</div>
 			</div>
 
-			<div class="col-span-3 justify-self-end lg:col-span-1">
+			<div class="col-span-3 mt-4 lg:col-span-1 lg:mt-0 lg:justify-self-end">
 				<h3 class="font-semibold">Пункт 1</h3>
-				<ul>
+				<ul class="mt-4">
 					<li>
 						<a href="http://">Пункт меню 1</a>
 					</li>
@@ -115,9 +115,9 @@
 				</ul>
 			</div>
 
-			<div class="col-span-3 justify-self-end lg:col-span-1">
+			<div class="col-span-3 mt-4 lg:col-span-1 lg:mt-0 lg:justify-self-end">
 				<h3 class="font-semibold">Пункт 3</h3>
-				<ul>
+				<ul class="mt-4">
 					<li>
 						<a href="http://">Пункт меню 1</a>
 					</li>

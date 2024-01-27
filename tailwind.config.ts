@@ -7,6 +7,10 @@ export default <Partial<Config>>{
 			colors: {
 				primary: colors.green,
 			},
+			container: {
+				center: true,
+				padding: '2rem',
+			},
 		},
 	},
 	content: [

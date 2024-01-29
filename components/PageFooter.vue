@@ -2,14 +2,14 @@
 	<footer>
 		<div class="container grid grid-cols-3 gap-x-8 pb-16 pt-32">
 			<div class="col-span-3 lg:col-span-1">
-				<a href="#" class="-m-1.5 p-1.5">
+				<NuxtLink to="/" class="-m-1.5 p-1.5">
 					<span class="sr-only">Your Company</span>
 					<img
 						class="h-8 w-auto"
 						src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
 						alt=""
 					/>
-				</a>
+				</NuxtLink>
 				<p class="mt-6 text-base text-gray-500">
 					Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat
 					commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
